@@ -13,7 +13,7 @@
 
 ## ⚡ Habilidades
 
-HTML5 | CSS3 | JavaScript | JSON | Java | SQL | Git | GitHub | Visual Studio | 
+HTML5 | CSS3 | JavaScript | JSON | Java | SQL | Git | GitHub | Visual Studio | REACT | NODE.JS | EXPRESS.JS | METODOLOGIAS AGILES | entre otras |
 
 ## 🤝 Conéctate conmigo
 
